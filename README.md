@@ -15,3 +15,5 @@ BETA Vinewood Sign Vegetaion: https://www.gtainside.com/en/sanandreas/mods/11566
 PedSkills: https://www.mixmods.com.br/2022/08/pedskills/
 
 Proper Fixes: https://www.mixmods.com.br/2023/07/sa-proper-fixes/
+
+Proper Radar: https://www.mixmods.com.br/2022/07/proper-radar/
